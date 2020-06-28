@@ -1,0 +1,7 @@
+y
+#python3.6
+pip install wheel 
+pip install opencv-python
+conda/pip install tensorflow==1.15
+pip install pyqt5 pyqt5-tools
+conda/pip install keras matplotlib joblib pymongo dnspython pytz
